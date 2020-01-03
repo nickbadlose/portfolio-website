@@ -1,4 +1,10 @@
-h1 {
-  font-size: 72pt;
-  color: blue;
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  font-size: 46pt;
 }
